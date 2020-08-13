@@ -1,5 +1,5 @@
-FROM php:5.6-apache
-#FROM ubuntu:trusty
+#FROM php:5.6-apache
+FROM ubuntu:trusty
 
 VOLUME ["/var/www"]
 
