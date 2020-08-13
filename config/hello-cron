@@ -1,0 +1,2 @@
+*/6 * * * * /usr/bin/lynx --dump http://localhost/bnt/scheduler.php?swordfish=password > /dev/null
+# An empty line is required at the end of this file for a valid cron file.
